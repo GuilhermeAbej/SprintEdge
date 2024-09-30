@@ -15,6 +15,10 @@ Victor Pacifico Dias - RM558017
 *<h2>Link do projeto: (Feito no site Wokwi)</h2>**
 https://wokwi.com/projects/410332464007644161
 
+**<h2>Link do vídeo</h2>**
+
+https://youtu.be/SIFAdw7KbnY
+
 **<h2>Descrição do Projeto</h2>**
 Este projeto busca monitorar o uso da bateria de um carro durante uma corrida e alertar quando o nível da bateria está baixo ou quando o carro está consumindo muita energia. Utilizando um potenciometro( no lugar de um sensor de carga de bateria), o sistema é capaz de enviar dados em tempo real e notificar os usuários sobre condições críticas. O sistema coleta dados em tempo real e envia notificações para um painel de controle via Node-RED.
 
